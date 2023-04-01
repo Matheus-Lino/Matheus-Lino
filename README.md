@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Matheus-Lino
+### Olá eu me chamo Matheus Lino
 
 - 💻 Estudando HTML, CSS e JavaScript
 - ⚽ Meu sonho era ser jogador de futebol
