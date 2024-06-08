@@ -1,6 +1,6 @@
 ### Olá eu me chamo Matheus Lino
 
-- 💻 HTML, CSS, JAVASCRIPT, VUE.JS C#, C, PYTHON
+- 💻 HTML, CSS, JAVASCRIPT, VUE.JS, C#, C, PYTHON
 - ⚽ Meu sonho era ser jogador de futebol
 - 🍖 Minha comida favorita é churrasco kk
 
