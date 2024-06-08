@@ -1,6 +1,6 @@
 ### Olá eu me chamo Matheus Lino
 
-- 💻 HTML, CSS, JAVASCRIPT, C#, C, PYTHON
+- 💻 HTML, CSS, JAVASCRIPT, VUE.JS C#, C, PYTHON
 - ⚽ Meu sonho era ser jogador de futebol
 - 🍖 Minha comida favorita é churrasco kk
 
@@ -12,7 +12,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"height="30"  width="40" align="center"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"  width="40" align="center"/>        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"  width="40" align="center"/> 
+  <img src="https://vuejsbr-docs-next.netlify.app/logo.png" height="30" width="40" width="40" align="center"/> 
 </div>
 
   ##
