@@ -2,7 +2,6 @@
 
 - 💻 HTML, CSS, JAVASCRIPT, VUE.JS, C#, C, PYTHON
 - ⚽ Meu sonho era ser jogador de futebol
-- 🍖 Minha comida favorita é churrasco kk
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Lino&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lino&layout=compact&theme=radical)](https://github.com/Matheus-Lino/github-readme-stats)
