@@ -1,0 +1,21 @@
+name: Snake Game
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Executar a cada 15 minutos
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pygithub
+
+      - name: Run snake
+        run: python snake.py ${{ secrets.GITHUB_TOKEN }}
