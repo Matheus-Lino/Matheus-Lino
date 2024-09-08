@@ -12,7 +12,6 @@ Atualmente atuo como Desenvolvedor ERP Front-End Trainee, utilizando as principa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"height="30"  width="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"  width="40" align="center"/> 
   <img src="https://vuejsbr-docs-next.netlify.app/logo.png" height="30" width="40" width="40" align="center"/> 
-  ##
 
 <div> 
   <a href="https://instagram.com/theuslinoo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
