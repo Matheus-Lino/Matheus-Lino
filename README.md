@@ -12,7 +12,7 @@ Atualmente atuo como Desenvolvedor ERP Front-End Trainee, utilizando as principa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"height="30"  width="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"  width="40" align="center"/> 
   <img src="https://vuejsbr-docs-next.netlify.app/logo.png" height="30" width="40" width="40" align="center"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.syncfusion.com%2F&psig=AOvVaw3DANLis5qIoFhjqDY4XQn8&ust=1725921121712000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICA-q6ztIgDFQAAAAAdAAAAABAP" height="30" width="40" width="40" align="center"/> 
+  <span class="mdi mdi-nuxt"></span>
 </div>
 
   ##
