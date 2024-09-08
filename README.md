@@ -1,7 +1,6 @@
 ### Olá eu me chamo Matheus Lino
 
-- 💻 HTML, CSS, JAVASCRIPT, VUE.JS, C#, C, PYTHON
-- ⚽ Meu sonho era ser jogador de futebol
+Atualmente atuo como Desenvolvedor ERP Front-End Trainee, utilizando as principais tecnologias do mercado, como HTML, CSS, JavaScript e TypeScript. Trabalho com os frameworks Vue.js, Vuetify, Nuxt, Syncfusion e DevExpress, sempre com o objetivo de entregar soluções eficientes e de alta qualidade, garantindo uma experiência de usuário fluida e funcional.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Lino&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lino&layout=compact&theme=radical)](https://github.com/Matheus-Lino/github-readme-stats)
@@ -13,6 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"height="30"  width="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"  width="40" align="center"/> 
   <img src="https://vuejsbr-docs-next.netlify.app/logo.png" height="30" width="40" width="40" align="center"/> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fdevexpress%2Ffeatures&psig=AOvVaw3HvhiCrUwvun_EVCK8JYn7&ust=1725920895739000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjqksCytIgDFQAAAAAdAAAAABAK  height="30" width="40" width="40" align="center"/> 
 </div>
 
   ##
