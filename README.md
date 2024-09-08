@@ -12,7 +12,7 @@ Atualmente atuo como Desenvolvedor ERP Front-End Trainee, utilizando as principa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"height="30"  width="40" align="center"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30"  width="40" align="center"/> 
   <img src="https://vuejsbr-docs-next.netlify.app/logo.png" height="30" width="40" width="40" align="center"/> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DDevExpress.DevExpressUniversalSubscription&psig=AOvVaw3HvhiCrUwvun_EVCK8JYn7&ust=1725920895739000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjqksCytIgDFQAAAAAdAAAAABAf"  height="30" width="40" width="40" align="center"/> 
+  <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fmg.gmarket.co.kr%2FItem%3FgoodsCode%3D1864407216&psig=AOvVaw3HvhiCrUwvun_EVCK8JYn7&ust=1725920895739000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjqksCytIgDFQAAAAAdAAAAABAp"  height="30" width="40" width="40" align="center"/> 
 </div>
 
   ##
