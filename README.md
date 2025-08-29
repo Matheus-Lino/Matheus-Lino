@@ -1,7 +1,28 @@
 ### Olá eu me chamo Matheus Lino
 
-Atualmente atuo como Desenvolvedor ERP Front-End Trainee, utilizando as principais tecnologias do mercado, como HTML, CSS, JavaScript e TypeScript. Trabalho com os frameworks Vue.js, Vuetify, Nuxt, Syncfusion e DevExpress, sempre com o objetivo de entregar soluções eficientes e de alta qualidade, garantindo uma experiência de usuário fluida e funcional.
+💻 Desenvolvedor Front-end | Vue.js | JavaScript | UX/UI | Web Performance
 
+Sou desenvolvedor front-end formado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web responsivas, escaláveis e orientadas à experiência do usuário (UX).
+
+Trabalho com Vue.js, Nuxt.js, HTML5, CSS3, JavaScript (ES6+), TypeScript (básico) e SQL Server, aplicando boas práticas de código limpo, versionamento com Git/GitHub e otimização de performance.
+
+Atuei em projetos que integraram tecnologia web e IoT, participando de todo o ciclo de desenvolvimento — do protótipo ao deploy — sempre focado em usabilidade, acessibilidade e desempenho.
+
+• Competências Técnicas (Hard Skills):
+• Front-end: Vue.js, Nuxt.js, HTML5, CSS3, JavaScript, TypeScript (básico)
+• Banco de dados: SQL Server
+• Ferramentas: Git, GitHub, VS Code, Figma
+• Práticas: UX/UI Design, SEO on-page, Mobile First, Web Performance, Acessibilidade
+
+• Competências Comportamentais (Soft Skills):
+• Trabalho em equipe colaborativo
+• Comunicação clara e objetiva
+• Criatividade na resolução de problemas
+• Resiliência e adaptabilidade a mudanças
+• Organização e atenção aos detalhes
+
+📚 Atualmente aprendendo: Python e frameworks modernos de front-end para ampliar minha capacidade de atuar em soluções completas.
+🎯 Objetivo: aplicar tecnologia e design de forma estratégica para criar produtos digitais inovadores e de alto impacto.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Lino&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lino&layout=compact&theme=radical)](https://github.com/Matheus-Lino/github-readme-stats)
 
