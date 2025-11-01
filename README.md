@@ -2,8 +2,7 @@
 
 **Desenvolvedor Full Stack | Front-End | Vue.js | TypeScript | Python | SQL**
 
-Olá! Sou **Matheus Lino**, formado em **Análise e Desenvolvimento de Sistemas**, com experiência em **desenvolvimento de sistemas e projetos web**.  
-Ao longo da minha trajetória, participei de projetos que envolveram **front-end moderno com Vue.js**, **integração com back-end em Python** e **bancos de dados SQL**, sempre buscando entregar **soluções eficientes e escaláveis**.
+Olá, eu sou o Matheus Lino, desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista. Durante minha trajetória profissional, tive contato com diversas tecnologias, atuando principalmente com HTML, CSS, JavaScript, Vue.js, TypeScript, Python, Node.js e SQL Server.
 
 Sou apaixonado por **tecnologia, inovação e aprendizado contínuo**, e acredito que o desenvolvimento de software vai além de escrever código: envolve **resolver problemas de forma criativa**, **trabalhar em equipe** e **manter a ética e organização em todos os projetos**.
 
