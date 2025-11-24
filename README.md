@@ -1,17 +1,8 @@
 # 👨‍💻 Matheus Lino
 
-**Desenvolvedor Full Stack | Front-End | Vue.js | TypeScript | Python | SQL**
+**Desenvolvedor Full Stack | Vue.js | React | JavaScript | TypeScript | Python | SQL**
 
-Olá, eu sou o Matheus Lino, desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista. Durante minha trajetória profissional, tive contato com diversas tecnologias, atuando principalmente com HTML, CSS, JavaScript, Vue.js, TypeScript, Python, Node.js e SQL Server.
-
-Sou apaixonado por **tecnologia, inovação e aprendizado contínuo**, e acredito que o desenvolvimento de software vai além de escrever código: envolve **resolver problemas de forma criativa**, **trabalhar em equipe** e **manter a ética e organização em todos os projetos**.
-
-Minhas principais áreas de atuação incluem:
-- **Desenvolvimento Web**: Front-end com Vue.js, JavaScript/TypeScript, HTML, CSS  
-- **Back-end e automações**: Python, integração com bancos de dados SQL  
-- **Boas práticas e performance**: código limpo, modular e manutenível  
-
-Estou sempre em busca de **novos desafios**, tecnologias emergentes e projetos que me permitam **crescer como desenvolvedor Full Stack** e contribuir de forma significativa para a equipe.
+Olá, eu sou o Matheus Lino, sou desenvolvedor Full Stack com experiência em HTML, CSS, JavaScript, Vue.js, React, Python, SQL Server e MySQL, criando interfaces modernas, responsivas e otimizadas. Tenho foco em performance, usabilidade e boas práticas de desenvolvimento, utilizando Git, metodologias ágeis e atenção aos detalhes para entregar código limpo e eficiente. Tenho mentalidade voltada a resultados e evolução contínua, transformando ideias em soluções escaláveis e eficientes. Sou proativo, criativo, trabalho em equipe e comprometido com a qualidade, buscando sempre contribuir com inovação, performance e impacto direto nos objetivos da empresa. 
 
 ---
 
@@ -39,8 +30,10 @@ Estou sempre em busca de **novos desafios**, tecnologias emergentes e projetos q
   <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="TypeScript" title="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="Vue.js" title="Vue.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="SQL" title="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="SQL Server" title="SQL Server" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
