@@ -49,8 +49,8 @@ Olá, eu sou o **Matheus Lino**, Desenvolvedor Full-Stack com 1 ano de experiên
 ## 📊 GitHub Estatísticas
 
 <p align="center">
-  <img alt="GitHub Stats" height="180" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lino&show_icons=true&theme=radical&include_all_commits=true" />
-  <img alt="Top Languages" height="180" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lino&theme=radical&layout=compact&langs_count=8" />
+  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lino&show_icons=true&theme=transparent&include_all_commits=true" />
+  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lino&theme=transparent&layout=compact&langs_count=8" />
 </p>
 
 ---
