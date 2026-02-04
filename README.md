@@ -45,13 +45,13 @@ Olá, eu sou o **Matheus Lino**, Desenvolvedor Full-Stack com 1 ano de experiên
 
 ## 📊 GitHub Estatísticas
 
-<p align="center">
-  <img height="180"
+<div align="center" style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center;">
+  <img width="420"
        src="https://github-readme-stats-one-bice.vercel.app/api?username=Matheus-Lino&show_icons=true&include_all_commits=true&theme=github_dark" />
 
-  <img height="180"
+  <img width="420"
        src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Matheus-Lino&layout=compact&langs_count=8&theme=github_dark" />
-</p>
+</div>
 
 ---
 
