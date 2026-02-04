@@ -37,9 +37,9 @@ Olá, eu sou o **Matheus Lino**, Desenvolvedor Full-Stack com 1 ano de experiên
 
 ## 🚀 Projetos em Destaque
 
-* **ERP para Oficinas Mecânicas (Full Stack):** Plataforma escalável com React, Tailwind CSS, Flask (Python) e MySQL. [cite_start]Inclui automação de regras de negócio financeiras e integração com API do IBGE.
-* [cite_start]**TCC - Gestão de Fazenda Urbana:** Sistema completo para controle de cultivos e estoque utilizando C#, SQL Server e JavaScript.
-* [cite_start]**Dashboards Real-time (Experiência GRV):** Desenvolvimento de painéis industriais complexos com DevExpress, Syncfusion e comunicação via WebSockets.
+* ERP para Oficinas Mecânicas (Full Stack):** Plataforma escalável com React, Tailwind CSS, Flask (Python) e MySQL. [cite_start]Inclui automação de regras de negócio financeiras e integração com API do IBGE.
+* TCC - Gestão de Fazenda Urbana:** Sistema completo para controle de cultivos e estoque utilizando C#, SQL Server e JavaScript.
+* Dashboards Real-time (Experiência GRV):** Desenvolvimento de painéis industriais complexos com DevExpress, Syncfusion e comunicação via WebSockets.
 
 ---
 
