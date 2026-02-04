@@ -12,9 +12,6 @@ Olá, eu sou o **Matheus Lino**, Desenvolvedor Full-Stack com 1 ano de experiên
   <a href="https://www.linkedin.com/in/matheuslinodev/" target="_blank" style="margin: 0 10px;">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Matheus%20Lino-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Matheus-Lino" target="_blank" style="margin: 0 10px;">
-    <img alt="GitHub" title="GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-Matheus%20Lino-black?logo=github&style=for-the-badge" />
-  </a>
   <a href="mailto:matheuslinoeua@gmail.com" target="_blank" style="margin: 0 10px;">
     <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/Email-matheuslinoeua-green?logo=gmail&style=for-the-badge" />
   </a>
