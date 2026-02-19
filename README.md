@@ -1,8 +1,8 @@
 # 👨‍💻 Matheus Lino
 
-Desenvolvedor Full Stack | Javascript | Node.js | Vue.js | React.js | Vuetify | Python | C# | SQL Server | MySQL | Git e GitHub
+Desenvolvedor Front End | Javascript | Node.js | Vue.js | React.js | Vuetify | Python | C# | SQL Server | MySQL | Git e GitHub
 
-Olá, eu sou o **Matheus Lino**, Desenvolvedor Full-Stack com 1 ano de experiência profissional, apaixonado por tecnologia e focado na criação de soluções funcionais e criativas para sistemas de alta complexidade. Durante minha jornada, adquiri experiência sólida em Vue.js, Vuetify, Python, TypeScript, Nuxt.js, React, APIs RESTful, SQL Server, MySQL, Git, GitHub, Syncfusion, DevExpress e Tailwind CSS, desenvolvendo aplicações robustas e dashboards de alta performance. Atualmente, busco aplicar meus conhecimentos no desenvolvimento de sistemas escaláveis e soluções em tempo real, sempre atento aos detalhes de usabilidade e seguindo as melhores práticas de desenvolvimento do mercado.
+Olá, eu sou o Matheus Lino, Desenvolvedor Front-end Júnior com experiência em sistemas ERP integrados a IoT, atuando na construção de interfaces responsivas, dashboards interativos e integração com APIs REST. Experiência prática com Vue.js, Nuxt.js, React, TypeScript e desenvolvimento de APIs e operações CRUD utilizando Python. Perfil com visão sistêmica, foco em performance e melhoria da experiência do usuário. 
 
 ---
 
