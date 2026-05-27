@@ -45,27 +45,16 @@ Atualmente busco evoluir como desenvolvedor, criando projetos mais completos, es
 
 <p align="center">
   <img alt="Vue.js" title="Vue.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="React" title="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="TypeScript" title="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="Tailwind CSS" title="Tailwind CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="Node.js" title="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="C#" title="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="SQL Server" title="SQL Server" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="MySQL" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img alt="GitHub" title="GitHub" width="45px" src="https://skillicons.dev/icons?i=github" />
 </p>
 ---
