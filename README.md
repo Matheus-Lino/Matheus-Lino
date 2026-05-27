@@ -13,17 +13,31 @@ Atualmente busco evoluir como desenvolvedor, criando projetos mais completos, es
 
 ## 📫 Contato
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/matheuslinodev/" target="_blank">
-    Linkedin:
-    <img alt="LinkedIn" title="LinkedIn" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:matheuslinoeua@gmail.com" target="_blank">
-    E-mail:
-    <img alt="Email" title="Email" width="42px" src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/matheuslinodev/" target="_blank">
+        <img alt="LinkedIn" title="LinkedIn" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      </a>
+    </td>
+    <td>
+      <strong>LinkedIn</strong>
+    </td>
+    <td width="30"></td>
+    <td align="center">
+      <a href="mailto:matheuslinoeua@gmail.com" target="_blank">
+        <img alt="Email" title="Email" width="38px" src="https://skillicons.dev/icons?i=gmail" />
+      </a>
+    </td>
+    <td>
+      <strong>Email</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
