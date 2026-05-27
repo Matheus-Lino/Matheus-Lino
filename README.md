@@ -15,10 +15,11 @@ Atualmente busco evoluir como desenvolvedor, criando projetos mais completos, es
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheuslinodev/" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Matheus%20Lino-blue?logo=linkedin&style=for-the-badge" />
+    <img alt="LinkedIn" title="LinkedIn" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:matheuslinoeua@gmail.com" target="_blank">
-    <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/Email-matheuslinoeua@gmail.com-green?logo=gmail&style=for-the-badge" />
+    <img alt="Email" title="Email" width="42px" src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
@@ -38,7 +39,7 @@ Atualmente busco evoluir como desenvolvedor, criando projetos mais completos, es
   <img alt="SQL Server" title="SQL Server" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img alt="MySQL" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="GitHub" title="GitHub" width="45px" src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
