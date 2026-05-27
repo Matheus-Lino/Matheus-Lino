@@ -15,10 +15,12 @@ Atualmente busco evoluir como desenvolvedor, criando projetos mais completos, es
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheuslinodev/" target="_blank">
+    Linkedin:
     <img alt="LinkedIn" title="LinkedIn" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:matheuslinoeua@gmail.com" target="_blank">
+    E-mail:
     <img alt="Email" title="Email" width="42px" src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
